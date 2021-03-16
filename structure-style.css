@@ -1,0 +1,30 @@
+*{
+	font-family: 'Alegreya';
+	margin: 0px;
+	padding: 0px;
+	background-color: yellow;
+}
+.top-nav{
+	background-color: blue;
+	height: 25px;
+}
+.logo{
+	background-color: green;
+	height: 60px;
+}
+.main-nav{
+	background-color:orange;
+	height: 60px;
+}
+.banner{
+	height: 400px;
+	background-color: brown;
+}
+.main-section{
+	height: 600px;
+	background-color: white;
+}
+.footer{
+	background-color: blue;
+	height: 150px;
+}
